@@ -1,0 +1,11 @@
+numpy
+pandas
+pandas_ta
+yfinance
+joblib
+SQLAlchemy
+scikit-learn
+tensorflow
+plotly
+dash
+gunicorn
